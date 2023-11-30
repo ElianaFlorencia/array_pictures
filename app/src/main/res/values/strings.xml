@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">array_pictures</string>
+
+    <string name="textViewContent">Este es un texto oculto</string>
+    <string name="textviewpic1">TextView</string>
+
+
+
+
+    <string name="contentButtonText"> Actualizar Texto </string>
+</resources>
